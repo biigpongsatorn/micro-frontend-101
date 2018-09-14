@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src/custom-element/vue/node_modules
 
 # testing
 /coverage
