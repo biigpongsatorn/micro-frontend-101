@@ -16,10 +16,10 @@ class App extends Component {
         </header>
         <div className="is-expanded">
           <div className="is-33pct">
-            <vue-data-table str="สวัสดี Vue.js" num={456} bool={false} obj="{'name': 'Pongsatorn'}" arr={[4, 5, 6]}/>
+            React Custom Element coming soon...
           </div>
           <div className="is-33pct">
-            React Custom Element coming soon...
+            <vue-data-table str="สวัสดี Vue.js" num={456} bool={false} obj="{'name': 'Pongsatorn'}" arr={[4, 5, 6]}/>
           </div>
           <div className="is-33pct">
             Angular Custom Element coming soon...
